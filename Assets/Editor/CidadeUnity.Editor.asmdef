@@ -1,0 +1,11 @@
+{
+  "name": "CidadeUnity.Editor",
+  "rootNamespace": "",
+  "references": [
+    "CidadeUnity.Runtime"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "autoReferenced": true
+}

@@ -1,0 +1,11 @@
+{
+  "name": "CidadeUnity.PlayModeTests",
+  "rootNamespace": "",
+  "references": [
+    "CidadeUnity.Runtime"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ],
+  "autoReferenced": false
+}

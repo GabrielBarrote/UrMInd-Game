@@ -1,0 +1,14 @@
+{
+  "name": "CidadeUnity.EditModeTests",
+  "rootNamespace": "",
+  "references": [
+    "CidadeUnity.Runtime"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ],
+  "autoReferenced": false
+}

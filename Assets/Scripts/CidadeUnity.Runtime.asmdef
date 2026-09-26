@@ -1,0 +1,10 @@
+{
+  "name": "CidadeUnity.Runtime",
+  "rootNamespace": "",
+  "references": [
+    "Unity.InputSystem",
+    "Unity.RenderPipelines.Universal.Runtime",
+    "UnityEngine.UI"
+  ],
+  "autoReferenced": true
+}
